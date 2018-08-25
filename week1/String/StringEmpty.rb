@@ -1,0 +1,2 @@
+str=""
+puts str.empty?
